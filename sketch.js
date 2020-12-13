@@ -1,4 +1,4 @@
-let cheesConst = 1; //irrelevant
+let cheesConst = 2; //irrelevant
 let bps;
 let outlierconst = 0.07;
 let newr = []
