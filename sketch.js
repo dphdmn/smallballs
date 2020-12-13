@@ -15,7 +15,7 @@ let reactionHS = 9999;
 let bpsHS = 0;
 let eatenHS = 0;
 let maxepsHS = 0;
-let PRESSURE = 30;
+let PRESSURE = 40;
 let ballcounter;
 let timedif = 0;
 let reactions = [];
@@ -402,7 +402,7 @@ function textThings()
    text("SmallBalls by dphdmn",W/2,H-H/12);
    textSize(25);
    fill(250,150,200, alpha);
-   text("v6.9 Hard",W/2,H-H/25);
+   text("v6.969 Hard",W/2,H-H/25);
    
    fill(200-balance,balance*3+150,0, alpha);
    text(balance.toFixed(0),W/2,H-H/7);
